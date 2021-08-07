@@ -130,7 +130,7 @@ They framed gender prediction as a classification problem with two classes, male
 * For video stream:
     * Python {file_name.py}
 ## Results:
-Each of our team members implemented the project differently. One of them only implemented Age erection, and the other only implemented gender detection. We then combined all of our code. In the code, we used all the methods mentioned above and algorithms. All of the files are uploaded on GitHub. 
+Each of our team members implemented the project differently. One of them only implemented Age detection, and the other only implemented gender detection. We then combined all of our code. In the code, we used all the methods mentioned above and algorithms. All of the files are uploaded on GitHub. 
 The results were inspiring in each of our codes. Also, after combining the code, the output was not affected much. We thought there was some issue in code for the video stream, but after using sufficient light and position, we got results there too. Yet some of the results were not that good, like for babies pictures; gender detection was not easy. We applied extra padding, as mentioned in some tutorials, and we observed some improved results. 
 Overall, it was an excellent experience learning about OpenCV, python implementation, understanding and implementing the code, reading papers, and reading DNN and computer vision articles. And now, we all are excited about implementing and learning more about this field.
 
